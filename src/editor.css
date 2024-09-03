@@ -1,0 +1,16 @@
+.editor-wrapper {
+	border: 1px solid #ddd;
+	border-radius: 4px;
+}
+
+.editor-toolbar {
+	border-bottom: 1px solid #ddd;
+	margin-bottom: 0px;
+}
+
+.editor-content {
+	min-height: 41;
+	padding: 2px 10px;
+	font-size: 14px;
+	line-height: 1.5;
+}
